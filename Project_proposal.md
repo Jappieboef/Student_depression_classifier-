@@ -1,0 +1,1 @@
+The basis of our machine learning project is a Depression Classifier built on the Kaggle dataset provided in this notebook. The dataset includes 12 independent variables, and the target variable is whether the student reported a diagnosis of depression(the response is either yes or no).
